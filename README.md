@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaflyYogas / @Samianyoh
 - 👀 I’m interested in Full Stack Developer | But most is Front-End 
 - 🌱 I’m currently learning Laravel, Server
-- 📫 How to reach me <a href ="https://www.linkedin.com/in/raflyyogas/">Linkedin</a>
+- 📫 How to reach me <a href ="https://www.linkedin.com/in/raflyyogas/" target="_blank">Linkedin</a>
 
 <!---
 Saminayoh/Saminayoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
