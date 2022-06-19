@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaflyYogas / @Saminayoh
-- 👀 I’m interested in Full Stack Developer | But most is Back-End 
-- 🌱 I’m currently learning Laravel, Server
+- 👀 I’m a Full Stack Developer | But most is Back-End 
+- 🌱 I’m currently learning React JS, Next JS, Server
 - 📫 How to reach me <a href ="https://www.linkedin.com/in/raflyyogas/" target="_blank">Linkedin</a>
 
 <!---
