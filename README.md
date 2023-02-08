@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="https://www.instagram.com/raflyyogas/">@RaflyYogas</a>
-- 👀 I’m a Full Stack Developer | But most is Back-End 
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning React JS, Next JS, Server
 - 📫 How to reach me <a href ="https://www.linkedin.com/in/raflyyogas/" target="_blank">Linkedin</a>
 
